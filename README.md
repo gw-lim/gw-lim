@@ -2,7 +2,6 @@
 
 ---
 ## Geon Woo Lim
-<a href="https://www.instagram.com/gwlim_1028/" class="button icon instagram">Instagram</a>
 - majoring Computer Science & Engineering at Korea Univ.
 ---
 
