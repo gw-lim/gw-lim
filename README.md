@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Geon 👋
+
+---
+## Geon Woo Lim
+<a href="https://www.instagram.com/gwlim_1028/" class="button">Instagram</a>
+- majoring Computer Science & Engineering at Korea Univ.
+---
+
+
 
 <!--
 **Geon-Lim/Geon-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
