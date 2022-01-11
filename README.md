@@ -1,9 +1,8 @@
 # Hi, I'm Geon 👋
 
----
 ## Geon Woo Lim
 - majoring Computer Science & Engineering at Korea Univ.
----
+
 
 
 
