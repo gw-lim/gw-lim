@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=ff8b1c&text=gw-lim%&fontColor=ffffff&height=210)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=ff8b1c&text=gw-lim%&fontColor=5e5e5e&height=210)
 
   ### About Me ✏️
   
