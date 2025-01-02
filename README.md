@@ -26,7 +26,7 @@
 
   <br/>
   <br/>
-  
-  ![gw-lim's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=gw-lim&show_icons=true&theme=dracula)
+
+  ![gw-lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=gw-lim&show_icons=true&theme=highcontrast)
   
 </div>
